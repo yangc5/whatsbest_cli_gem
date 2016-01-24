@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.email       = 'yangc5@mail.uc.edu'
   s.files       = ["lib/whatsbest.rb"]
   s.homepage    =
-    # 'http://rubygems.org/gems/hola'
+    # 'http://rubygems.org/gems/whatsbest'
   s.license       = 'MIT'
 end
